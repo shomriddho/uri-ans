@@ -1,5 +1,5 @@
-md 1004
-cd 1004
+md 1006
+cd 1006
 md C
 md C#
 md C++
